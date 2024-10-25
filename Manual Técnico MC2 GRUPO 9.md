@@ -36,7 +36,7 @@ Búsqueda en Profundidad).
 
 ## LÓGICA DEL PROGRAMA
 ### Proyecto Grafos
-![]()
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20T%C3%A9cnico%20Imagenes/Librerias.JPG)
 #### Librerías
 La librería tkinter, se utilizó para crear la interfaz gráfica de usuario (GUI). Permitió construir ventanas, botones, cuadros de texto y otros elementos interactivos útiles para el programa.
 <br/>
@@ -46,10 +46,10 @@ La librería matplotlib.pyplot, se utilizó para generar gráficos y poder hacer
 
 #### Función Main
 La función Main se utilizó para que contuviera al menú inicial el cual es el que tiene las opciones para ingresar a todos los métodos que se crearon para este programa, utilizando botones para realizar cada acción que el usuario elija de las opciones del menú.
-![]()
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20T%C3%A9cnico%20Imagenes/Main.JPG)
 
 #### Métodos y Funciones utilizadas
 A continuación se dará una explicación general de lo que hace cada función:
-![]()
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20T%C3%A9cnico%20Imagenes/Metodos%20y%20funciones%201.JPG)
 <br/>
-![]()
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20T%C3%A9cnico%20Imagenes/Metodos%20y%20funciones%202.JPG)
