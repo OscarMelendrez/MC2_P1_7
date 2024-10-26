@@ -22,16 +22,29 @@ La interfaz está diseñada con una pantalla principal fácil de usar y consta d
 - **Boton aplicar busqueda en anchura**: Este botón muestra un grafo con el algoritmo de busqueda en anchura aplicado. 
 - **Boton aplicar busqueda en profundidad**: Este boton muestra un grafo con el algoritmo de busqueda en profundidad aplicado. 
 
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20de%20usuario%20imagenes/Pantallaprincipal.png)
+
 #### 4. Uso del Programa
 
 1. **Ingresar aristas**: Desde la pantalla principal el usuario debe ingresar las aristas en el formato `vertice_origen -> vertice_destino`
-   
+
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20de%20usuario%20imagenes/Pantallaprincipal.png)
+
 2. **Generar grafo**: Use el botón "Mostrar grafo"  va a mostrar un grafo formado por los vertices y las aristas ingresadas por el usuario. 
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20de%20usuario%20imagenes/Generar%20Grafo.png)
+
 
 3. **Aplicar búsqueda en anchura**: Use el botón "Aplicar busqueda en anchura", debe ingresar el vector inicial para el algoritmo, luego presionar "OK" para mostrar un grafo con el algoritmo de busqueda en anchura aplicado. 
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20de%20usuario%20imagenes/Verticeinicialancho.png)
+
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20de%20usuario%20imagenes/Grafoanchura.png)
+
+
 
 4. **Aplicar búsqueda en profundidad**: Use el botón "Aplicar busqueda en profundidad", debe ingresar el vector inicial para el algoritmo, luego presionar "OK" para mostrar un grafo con el algoritmo de busqueda en anchura aplicado.
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20de%20usuario%20imagenes/Viprofunidad.png)
 
+![](https://github.com/OscarMelendrez/MC2_P1_9/blob/main/Manual%20de%20usuario%20imagenes/Grafoprofundidad.png)
 
 #### 5. Recomendaciones
 
